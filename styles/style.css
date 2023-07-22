@@ -1,0 +1,28 @@
+/*NAVBAR*/
+#navbar {
+	background-color: #1E90FF;
+	width: auto;
+	height: 55px;
+}
+
+#nav-element {
+	margin: auto;
+	color: white;
+	text-decoration: none;
+	font-variant: small-caps;
+	padding: 10px 10px 10px 10px;
+	background-color: #78BE21;
+	margin-left: 15px;
+	transition: 2s;
+}
+
+#nav-element:hover {
+	padding: 21px 20px 18px 20px;
+	transition: 2s;
+}
+
+/*INDEX.PHP*/
+#home-img {
+	width: auto;
+	height: 950px;
+}
